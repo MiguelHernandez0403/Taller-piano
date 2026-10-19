@@ -1,0 +1,5 @@
+opencv-contrib-python
+pygame-ce>=2.5.8
+numpy
+mediapipe==0.10.35
+ultralytics
